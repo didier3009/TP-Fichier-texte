@@ -1,2 +1,2 @@
 # TP-Fichier-texte
-Importation de fichier texte depuyis MacShen
+Importation de fichier texte depuis MacShen
